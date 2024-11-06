@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "gated-provision-archive/index.md",
+      "redirect_url": "/archive/ming-test-archive-gated/index",
+      "redirect_document_id": false
+    }
+  ]
+}
